@@ -1,4 +1,5 @@
 # An eclipse project for Java-Automation-Testing
 
-**Tools Used**
-&nbsp;&nbsp;&nbsp;&nbsp;Selenium + TestNg
+**Tools Used** : Selenium + TestNg
+
+#login page is automated through this project
